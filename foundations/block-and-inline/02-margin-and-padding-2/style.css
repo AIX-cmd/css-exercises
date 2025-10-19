@@ -17,6 +17,8 @@ body {
 
 .content {
   background: #e3f4ff;
+  padding: 15px;
+  padding-left: inherit;
 }
 
 .button-container {
